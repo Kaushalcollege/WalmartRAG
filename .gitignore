@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.env
+
+# Mac system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environment
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code settings
+.vscode/
+
+# mypy, pytest, coverage, etc.
+.mypy_cache/
+.pytest_cache/
+.coverage
+.tox/
+.cache/
+
+# AWS CLI & credentials (if accidentally copied locally)
+.aws/
+
+# Ignore compiled files in project structure
+app/**/__pycache__/
+app/**/*.py[cod]
+main.cpython-*.pyc

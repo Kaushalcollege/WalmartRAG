@@ -1,6 +1,11 @@
 langchain
-pypdf
-streamlit
+langchain-community
+langchain-openai
 faiss-cpu
+pypdf
 boto3
 python-dotenv
+fastapi
+uvicorn
+python-multipart
+langchain-aws
